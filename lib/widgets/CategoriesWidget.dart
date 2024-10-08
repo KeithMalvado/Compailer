@@ -23,7 +23,7 @@ class CategoriesWidget extends StatelessWidget {
                     width: 40,
                     height: 40,
                   ),
-                  SizedBox(width: 10), // Add spacing between the image and text
+                  SizedBox(width: 10),
                   Text(
                     "Akun Sultan",
                     style: TextStyle(
