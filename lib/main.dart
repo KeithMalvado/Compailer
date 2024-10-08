@@ -1,7 +1,7 @@
 import 'package:compailer/pages/CartPage.dart';
 import 'package:compailer/pages/Homepage.dart';
 import 'package:compailer/pages/ItemPage.dart';
-import 'package:flutter/material.dart'; // Corrected the import
+import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
